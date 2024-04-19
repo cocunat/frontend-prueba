@@ -8,8 +8,8 @@ The repository includes a `content.zip` file containing all necessary images for
 
 ### Components
 
-- **Design 2**: Implementation as specified.
-- **Design 3**: Includes API calls to fetch product prices from the following endpoint:
+- **Design 3**: Implementation as specified.
+- **Design 2**: Includes API calls to fetch product prices from the following endpoint:
   
 `GET https://go.cocunat.com/products/clinical-beauty-filler`
 This endpoint returns JSON data with the pricing information which is integrated into the component.
